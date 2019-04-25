@@ -1,0 +1,12 @@
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\DapperMigrations.exe.config
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\DapperMigrations.exe
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\DapperMigrations.pdb
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\Dapper.dll
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\dbup-core.dll
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\dbup-sqlserver.dll
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\bin\Debug\Dapper.xml
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\obj\Debug\DapperMigrations.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\obj\Debug\DapperMigrations.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\obj\Debug\DapperMigrations.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\obj\Debug\DapperMigrations.exe
+C:\Users\МукушевА.CORP\source\repos\DapperMigrations\DapperMigrations\obj\Debug\DapperMigrations.pdb
